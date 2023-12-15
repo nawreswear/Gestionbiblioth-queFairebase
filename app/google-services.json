@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578860367483",
+    "project_id": "gestionbibfairebase",
+    "storage_bucket": "gestionbibfairebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578860367483:android:bb734de3cb610158cc2cde",
+        "android_client_info": {
+          "package_name": "com.fairebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpdJyQhVFKOB5zJZZMUSuebcAtRlGVs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
